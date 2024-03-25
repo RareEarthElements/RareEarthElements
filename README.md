@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RareEarthElements
 - 👀 I’m interested in applied geoscience
-- 🌱 I’m currently learning geostatistics and machine learning in geoscience
+- 🌱 I’m currently learning data science and machine learning in geothermal
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
